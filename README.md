@@ -1,4 +1,4 @@
-## About Me
+## 💡 About Me
 
 I enjoy programming, building applications, learning new things, and solving problems.
 
